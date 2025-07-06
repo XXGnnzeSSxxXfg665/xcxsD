@@ -1,18 +1,1 @@
-[
-  {
-    "key": "zaeaze",
-    "expires": "2025-08-05T17:54:49.544Z",
-    "redeemed": false,
-    "user_id": null,
-    "hwid": null,
-    "blacklisted": false
-  },
-  {
-    "key": "aze",
-    "expires": "2125-07-06T18:27:06.073Z",
-    "redeemed": false,
-    "user_id": null,
-    "hwid": null,
-    "blacklisted": false
-  }
-]
+[]
