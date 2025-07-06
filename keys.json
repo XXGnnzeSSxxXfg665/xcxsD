@@ -9,5 +9,16 @@
     "plan_type": "day",
     "plan_amount": 1,
     "redeemed_at": "2025-07-06T19:01:55.740Z"
+  },
+  {
+    "key": "FIVEM-QGEMO-XONXQ-GDZPN",
+    "expires": "2025-08-06T19:02:51.619Z",
+    "redeemed": false,
+    "user_id": null,
+    "hwid": null,
+    "blacklisted": false,
+    "plan_type": "month",
+    "plan_amount": 1,
+    "redeemed_at": null
   }
 ]
