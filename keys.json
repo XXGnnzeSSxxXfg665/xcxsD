@@ -29,6 +29,6 @@
     "redeemed": false,
     "user_id": null,
     "hwid": null,
-    "blacklisted": false
+    "blacklisted": true
   }
 ]
