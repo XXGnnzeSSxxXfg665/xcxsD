@@ -14,5 +14,13 @@
     "user_id": null,
     "hwid": null,
     "blacklisted": false
+  },
+  {
+    "key": "aze",
+    "expires": "2125-07-06T18:27:06.073Z",
+    "redeemed": false,
+    "user_id": null,
+    "hwid": null,
+    "blacklisted": false
   }
 ]
