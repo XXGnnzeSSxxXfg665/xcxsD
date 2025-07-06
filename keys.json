@@ -12,11 +12,11 @@
   {
     "key": "1azeaz",
     "expires": "2026-07-06T20:20:39.798Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "month",
     "plan_amount": 12,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-06T20:20:45.468Z"
   }
 ]
