@@ -5,7 +5,7 @@
     "redeemed": true,
     "user_id": "961498060792397824",
     "hwid": null,
-    "blacklisted": false,
+    "blacklisted": true,
     "plan_type": "month",
     "plan_amount": 1,
     "redeemed_at": "2025-07-06T19:03:00.504Z"
