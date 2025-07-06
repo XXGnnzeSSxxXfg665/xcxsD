@@ -2,12 +2,12 @@
   {
     "key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "expires": "2025-07-07T19:01:42.658Z",
-    "redeemed": false,
-    "user_id": null,
-    "hwid": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
+    "hwid": "a",
     "blacklisted": false,
     "plan_type": "day",
     "plan_amount": 1,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-06T19:01:55.740Z"
   }
 ]
