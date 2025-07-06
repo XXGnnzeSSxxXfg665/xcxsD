@@ -26,9 +26,9 @@
   {
     "key": "FIVEM-QGEMO-XONXQ-GDZPN",
     "expires": "2025-08-06T18:45:22.416Z",
-    "redeemed": false,
-    "user_id": null,
-    "hwid": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
+    "hwid": "ae",
     "blacklisted": false
   }
 ]
