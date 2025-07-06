@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "key": "aze",
+    "expires": "2041-01-09T20:10:33.709Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 5666,
+    "redeemed_at": null
+  }
+]
