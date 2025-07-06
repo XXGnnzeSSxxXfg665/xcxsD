@@ -9,5 +9,15 @@
     "plan_type": "month",
     "plan_amount": 1,
     "redeemed_at": "2025-07-06T19:03:00.504Z"
+  },
+  {
+    "key": "FIVEM-GNRUC-ZVAHS-YBSKK",
+    "expires": "2025-07-07T19:10:19.086Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 1,
+    "redeemed_at": null
   }
 ]
