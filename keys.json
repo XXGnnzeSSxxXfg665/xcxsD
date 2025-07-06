@@ -8,5 +8,15 @@
     "plan_type": "day",
     "plan_amount": 5666,
     "redeemed_at": "2025-07-06T20:10:38.208Z"
+  },
+  {
+    "key": "1azeazz2",
+    "expires": "2025-07-07T20:21:19.334Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 1,
+    "redeemed_at": null
   }
 ]
