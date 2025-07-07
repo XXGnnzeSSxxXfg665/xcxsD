@@ -18,5 +18,15 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-06T20:55:43.637Z"
+  },
+  {
+    "key": "MACHO-FIVEM-RLYMC-YHUUB",
+    "expires": "2125-07-07T12:29:48.031Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": null
   }
 ]
