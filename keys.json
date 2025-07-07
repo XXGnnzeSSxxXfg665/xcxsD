@@ -28,5 +28,15 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-07T12:30:10.108Z"
+  },
+  {
+    "key": "MACHO-FIVEM-DWZKS-WBOXR",
+    "expires": "2125-07-07T17:19:06.569Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": null
   }
 ]
