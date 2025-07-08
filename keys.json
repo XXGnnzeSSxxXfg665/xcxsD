@@ -38,5 +38,16 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-07T17:19:22.169Z"
+  },
+  {
+    "key": "4C8FTS-U36B-M8D1-8P",
+    "expires": "2125-07-08T22:31:51.044Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
+    "redeemed_at": null
   }
 ]
