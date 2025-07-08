@@ -37,7 +37,7 @@
     "expires": "2025-08-12T23:25:28.978Z",
     "redeemed": false,
     "user_id": null,
-    "blacklisted": false,
+    "blacklisted": true,
     "plan_type": "week",
     "plan_amount": 5,
     "macho_key": "azeazessqdqsxxx",
