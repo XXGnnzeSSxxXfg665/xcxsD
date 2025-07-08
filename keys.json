@@ -24,12 +24,12 @@
   {
     "key": "4CMenu-hNed-808L-D0",
     "expires": "2025-08-12T23:25:28.978Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "week",
     "plan_amount": 5,
     "macho_key": "azeazessqdqsxxx",
-    "redeemed_at": null
+    "redeemed_at": "2025-07-08T23:26:29.196Z"
   }
 ]
