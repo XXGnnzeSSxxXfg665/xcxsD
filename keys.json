@@ -20,5 +20,16 @@
     "plan_amount": null,
     "macho_key": "aeaze",
     "redeemed_at": null
+  },
+  {
+    "key": "4CMenu-MWiO-vqYr-8k",
+    "expires": "2025-12-08T23:23:46.979Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "month",
+    "plan_amount": 5,
+    "macho_key": "aeazeazeazeaze",
+    "redeemed_at": null
   }
 ]
