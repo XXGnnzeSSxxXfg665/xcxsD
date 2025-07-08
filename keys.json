@@ -9,5 +9,16 @@
     "plan_amount": null,
     "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "redeemed_at": "2025-07-08T22:46:07.914Z"
+  },
+  {
+    "key": "4CMenu-TnmP-kua0-Sq",
+    "expires": "2125-07-08T23:22:11.863Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "macho_key": "aeaze",
+    "redeemed_at": null
   }
 ]
