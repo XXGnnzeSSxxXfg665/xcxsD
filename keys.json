@@ -13,12 +13,12 @@
   {
     "key": "4CMenu-3NeW-toNM-ys",
     "expires": "2125-07-08T22:36:48.125Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
     "macho_key": "azeazeazeaze",
-    "redeemed_at": null
+    "redeemed_at": "2025-07-08T22:36:55.147Z"
   }
 ]
