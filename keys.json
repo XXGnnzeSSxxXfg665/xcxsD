@@ -9,5 +9,16 @@
     "plan_amount": 1,
     "macho_key": "4C8FTS-U36B-M8D1-8P",
     "redeemed_at": "2025-07-08T22:36:19.609Z"
+  },
+  {
+    "key": "4CMenu-3NeW-toNM-ys",
+    "expires": "2125-07-08T22:36:48.125Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "macho_key": "azeazeazeaze",
+    "redeemed_at": null
   }
 ]
