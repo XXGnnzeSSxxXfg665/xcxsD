@@ -31,5 +31,16 @@
     "plan_amount": 5,
     "macho_key": "aeazeazeazeaze",
     "redeemed_at": null
+  },
+  {
+    "key": "4CMenu-hNed-808L-D0",
+    "expires": "2025-08-12T23:25:28.978Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "week",
+    "plan_amount": 5,
+    "macho_key": "azeazessqdqsxxx",
+    "redeemed_at": null
   }
 ]
