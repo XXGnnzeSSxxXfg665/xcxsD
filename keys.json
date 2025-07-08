@@ -15,7 +15,7 @@
     "expires": "2125-07-08T22:36:48.125Z",
     "redeemed": true,
     "user_id": "994712157331660830",
-    "blacklisted": false,
+    "blacklisted": true,
     "plan_type": "lifetime",
     "plan_amount": null,
     "macho_key": "azeazeazeaze",
