@@ -3,14 +3,14 @@
     "key": "4CMenu-QRLd-1EcW-UX",
     "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "expires": "2125-07-09T15:00:20.059Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null,
-    "client_panel_username": null,
-    "client_panel_password": null,
-    "discord_id": null
+    "redeemed_at": "2025-07-09T15:01:54.426Z",
+    "client_panel_username": "azeeeee",
+    "client_panel_password": "azeeeee2",
+    "discord_id": "994712157331660830"
   }
 ]
