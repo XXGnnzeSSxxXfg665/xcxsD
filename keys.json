@@ -3,11 +3,13 @@
     "key": "4CMenu-3JIM-82fv-mC",
     "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "expires": "2125-07-09T14:26:38.232Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-09T14:26:48.788Z",
+    "client_panel_username": "aze",
+    "client_panel_password": "aze"
   }
 ]
