@@ -20,16 +20,5 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-09T15:11:01.256Z"
-  },
-  {
-    "key": "4CMenu-Cd13-HIce-Ee",
-    "macho_key": "11234",
-    "expires": "2125-07-10T19:53:21.954Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "lifetime",
-    "plan_amount": null,
-    "redeemed_at": null
   }
 ]
