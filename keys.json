@@ -20,16 +20,5 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-09T15:11:01.256Z"
-  },
-  {
-    "key": "4CMenu-MmhK-5zRG-l8",
-    "macho_key": "MACHO-FIVEM-YTE4-HFTEZ",
-    "expires": "2025-08-12T17:06:19.080Z",
-    "redeemed": true,
-    "user_id": "561518171581054976",
-    "blacklisted": false,
-    "plan_type": "month",
-    "plan_amount": 1,
-    "redeemed_at": "2025-07-12T17:06:29.442Z"
   }
 ]
