@@ -31,5 +31,16 @@
     "plan_type": "week",
     "plan_amount": 1,
     "redeemed_at": "2025-07-12T21:36:30.549Z"
+  },
+  {
+    "key": "4CMenu-8Aq3-FGnE-h2",
+    "macho_key": "blabla",
+    "expires": "2125-07-13T14:23:02.915Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": null
   }
 ]
