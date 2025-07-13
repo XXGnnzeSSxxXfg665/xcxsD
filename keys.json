@@ -58,11 +58,11 @@
     "key": "4CMenu-pCa9-LGYR-WT",
     "macho_key": "MACHO-FIVEM-DWZKS-WBOXR",
     "expires": "2125-07-13T21:45:51.290Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "1152247931043328000",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-13T21:47:42.273Z"
   }
 ]
