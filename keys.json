@@ -47,11 +47,11 @@
     "key": "4CMenu-TcZK-m960-u6",
     "macho_key": "MACHO-FIVEM-RLYMC-YHUUB",
     "expires": "2125-07-13T14:23:43.784Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "261226886099632128",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-13T14:23:56.906Z"
   }
 ]
