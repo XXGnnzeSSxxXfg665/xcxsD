@@ -42,5 +42,16 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": null
+  },
+  {
+    "key": "4CMenu-TcZK-m960-u6",
+    "macho_key": "MACHO-FIVEM-RLYMC-YHUUB",
+    "expires": "2125-07-13T14:23:43.784Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": null
   }
 ]
