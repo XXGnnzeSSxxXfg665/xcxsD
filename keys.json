@@ -27,7 +27,7 @@
     "expires": "2025-07-19T21:36:09.477Z",
     "redeemed": true,
     "user_id": "1240366492969603214",
-    "blacklisted": true,
+    "blacklisted": false,
     "plan_type": "week",
     "plan_amount": 1,
     "redeemed_at": "2025-07-12T21:36:30.549Z"
