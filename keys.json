@@ -69,11 +69,11 @@
     "key": "4CMenu-xZ6o-tA3N-zl",
     "macho_key": "MACHO-FIVEM-KKBWA-PTILZ",
     "expires": "2125-07-16T16:07:48.054Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "1392213735187288252",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-16T16:14:22.399Z"
   }
 ]
