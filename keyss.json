@@ -80,11 +80,11 @@
     "key": "4CMenu-7mjb-p8u8-SP",
     "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "expires": "2025-08-13T21:22:09.136Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "week",
     "plan_amount": 4,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-16T21:22:17.261Z"
   }
 ]
