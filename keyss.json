@@ -66,17 +66,6 @@
     "redeemed_at": "2025-07-16T16:14:22.399Z"
   },
   {
-    "key": "4CMenu-crmK-wZbL-nF",
-    "macho_key": "MACHO-FIVEM-JPLKW-IIABQ",
-    "expires": "2025-07-23T21:00:13.774Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "week",
-    "plan_amount": 1,
-    "redeemed_at": null
-  },
-  {
     "key": "4CMenu-lf8c-frc7-VQ",
     "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "expires": "2125-07-16T21:03:38.564Z",
