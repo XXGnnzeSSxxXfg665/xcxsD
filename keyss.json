@@ -64,16 +64,5 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-16T16:14:22.399Z"
-  },
-  {
-    "key": "4CMenu-lf8c-frc7-VQ",
-    "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
-    "expires": "2125-07-16T21:03:38.564Z",
-    "redeemed": true,
-    "user_id": "994712157331660830",
-    "blacklisted": false,
-    "plan_type": "lifetime",
-    "plan_amount": null,
-    "redeemed_at": "2025-07-16T21:03:43.743Z"
   }
 ]
