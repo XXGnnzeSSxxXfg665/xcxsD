@@ -80,11 +80,11 @@
     "key": "4CMenu-lf8c-frc7-VQ",
     "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
     "expires": "2125-07-16T21:03:38.564Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-16T21:03:43.743Z"
   }
 ]
