@@ -86,16 +86,5 @@
     "plan_type": "day",
     "plan_amount": 1,
     "redeemed_at": "2025-07-17T23:22:38.351Z"
-  },
-  {
-    "key": "4CMenu-xrVE-xQUc-Xw",
-    "macho_key": "MACHO-1FIVE-ACMRZ-AXLGV",
-    "expires": "2025-07-25T17:21:56.631Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "week",
-    "plan_amount": 1,
-    "redeemed_at": null
   }
 ]
