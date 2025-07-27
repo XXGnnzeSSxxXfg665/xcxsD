@@ -53,5 +53,16 @@
     "plan_type": "week",
     "plan_amount": 1,
     "redeemed_at": "2025-07-16T21:15:41.255Z"
+  },
+  {
+    "key": "4CMenu-SzXa-ib0a-P2",
+    "macho_key": "FIVEM-GNRUC-ZVAHS-YBSKK",
+    "expires": "2125-07-27T18:53:15.382Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": null
   }
 ]
