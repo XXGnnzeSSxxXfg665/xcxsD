@@ -80,11 +80,11 @@
     "key": "4CMenu-qps7-Nq49-eB",
     "macho_key": "4912351135467962038",
     "expires": "2125-07-28T17:29:27.147Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "1392213735187288252",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-28T17:30:05.146Z"
   }
 ]
