@@ -69,11 +69,11 @@
     "key": "4CMenu-imjC-JTHd-vw",
     "macho_key": "2043086921211818612",
     "expires": "2125-07-28T17:17:44.599Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "994712157331660830",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-07-28T17:17:52.335Z"
   }
 ]
