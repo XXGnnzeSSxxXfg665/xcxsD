@@ -5,7 +5,7 @@
     "expires": "2125-07-28T17:17:44.599Z",
     "redeemed": true,
     "user_id": "994712157331660830",
-    "blacklisted": true,
+    "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": "2025-07-28T17:17:52.335Z"
