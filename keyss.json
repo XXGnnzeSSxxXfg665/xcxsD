@@ -64,5 +64,16 @@
     "plan_type": "lifetime",
     "plan_amount": null,
     "redeemed_at": null
+  },
+  {
+    "key": "4CMenu-22YC-ANnI-8b",
+    "auth_key": "4909988353063085134",
+    "expires": "2025-08-13T17:39:48.548Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "week",
+    "plan_amount": 1,
+    "redeemed_at": null
   }
 ]
