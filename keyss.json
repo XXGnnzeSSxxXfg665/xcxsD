@@ -69,11 +69,11 @@
     "key": "4CMenu-22YC-ANnI-8b",
     "auth_key": "4909988353063085134",
     "expires": "2025-08-13T17:39:48.548Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "781280240361799720",
     "blacklisted": false,
     "plan_type": "week",
     "plan_amount": 1,
-    "redeemed_at": null
+    "redeemed_at": "2025-08-06T17:40:56.341Z"
   }
 ]
