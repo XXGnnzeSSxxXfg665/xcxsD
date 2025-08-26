@@ -130,16 +130,5 @@
     "plan_type": "week",
     "plan_amount": 1,
     "redeemed_at": "2025-08-26T20:10:57.843Z"
-  },
-  {
-    "key": "4CMenu-dkpN-k4aX-74",
-    "auth_key": "aze",
-    "expires": "2125-08-26T21:20:57.062Z",
-    "redeemed": true,
-    "user_id": "994712157331660830",
-    "blacklisted": false,
-    "plan_type": "lifetime",
-    "plan_amount": null,
-    "redeemed_at": "2025-08-26T21:21:02.469Z"
   }
 ]
