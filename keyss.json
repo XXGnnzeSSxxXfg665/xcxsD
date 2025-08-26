@@ -108,5 +108,16 @@
     "plan_type": "day",
     "plan_amount": 4,
     "redeemed_at": null
+  },
+  {
+    "key": "4CMenu-VdD4-p96I-x0",
+    "auth_key": "4911911134219767962",
+    "expires": "2025-08-30T14:59:40.880Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 4,
+    "redeemed_at": null
   }
 ]
