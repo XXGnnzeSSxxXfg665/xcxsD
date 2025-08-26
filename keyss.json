@@ -80,11 +80,11 @@
     "key": "4CMenu-5Aml-wkTp-Rp",
     "auth_key": "4904808836314657313",
     "expires": "2025-08-27T13:52:09.328Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "334407485853270019",
     "blacklisted": false,
     "plan_type": "day",
     "plan_amount": 1,
-    "redeemed_at": null
+    "redeemed_at": "2025-08-26T13:52:27.400Z"
   }
 ]
