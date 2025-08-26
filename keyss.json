@@ -75,16 +75,5 @@
     "plan_type": "week",
     "plan_amount": 1,
     "redeemed_at": "2025-08-06T17:40:56.341Z"
-  },
-  {
-    "key": "4CMenu-tDWR-BL8Y-P5",
-    "auth_key": "4904808836314657313",
-    "expires": "2025-08-26T16:47:57.729Z",
-    "redeemed": true,
-    "user_id": "334407485853270019",
-    "blacklisted": false,
-    "plan_type": "day",
-    "plan_amount": 1,
-    "redeemed_at": "2025-08-25T16:48:30.421Z"
   }
 ]
