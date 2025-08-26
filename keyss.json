@@ -55,17 +55,6 @@
     "redeemed_at": "2025-07-31T18:58:54.162Z"
   },
   {
-    "key": "4CMenu-ewhL-BUfw-9l",
-    "auth_key": null,
-    "expires": "2125-08-06T16:33:46.088Z",
-    "redeemed": false,
-    "user_id": null,
-    "blacklisted": false,
-    "plan_type": "lifetime",
-    "plan_amount": null,
-    "redeemed_at": null
-  },
-  {
     "key": "4CMenu-22YC-ANnI-8b",
     "auth_key": "4909988353063085134",
     "expires": "2025-08-13T17:39:48.548Z",
