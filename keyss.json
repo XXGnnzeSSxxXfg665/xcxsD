@@ -86,5 +86,16 @@
     "plan_type": "day",
     "plan_amount": 1,
     "redeemed_at": "2025-08-26T13:52:27.400Z"
+  },
+  {
+    "key": "4CMenu-Ekbw-6qXo-ej",
+    "auth_key": "1395582227685048411",
+    "expires": "2025-08-29T14:53:39.516Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "day",
+    "plan_amount": 3,
+    "redeemed_at": null
   }
 ]
