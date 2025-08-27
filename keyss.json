@@ -124,11 +124,11 @@
     "key": "4CMenu-JYti-3txs-sQ",
     "auth_key": "16403963638909779602",
     "expires": "2125-08-27T11:10:10.294Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "961498060792397824",
     "blacklisted": false,
     "plan_type": "lifetime",
     "plan_amount": null,
-    "redeemed_at": null
+    "redeemed_at": "2025-08-27T11:10:34.489Z"
   }
 ]
