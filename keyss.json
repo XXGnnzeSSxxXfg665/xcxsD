@@ -113,11 +113,11 @@
     "key": "4CMenu-OJZk-0mOu-W1",
     "auth_key": "4911671923569070297",
     "expires": "2025-09-03T01:18:02.158Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "1395582227685048411",
     "blacklisted": false,
     "plan_type": "week",
     "plan_amount": 1,
-    "redeemed_at": null
+    "redeemed_at": "2025-08-27T01:19:27.057Z"
   }
 ]
