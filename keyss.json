@@ -135,11 +135,11 @@
     "key": "4CMenu-4iLv-SurR-9J",
     "auth_key": "4904808836314657313",
     "expires": "2025-10-01T19:46:12.031Z",
-    "redeemed": false,
-    "user_id": null,
+    "redeemed": true,
+    "user_id": "334407485853270019",
     "blacklisted": false,
     "plan_type": "week",
     "plan_amount": 5,
-    "redeemed_at": null
+    "redeemed_at": "2025-08-27T19:46:59.731Z"
   }
 ]
