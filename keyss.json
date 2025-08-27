@@ -119,5 +119,16 @@
     "plan_type": "week",
     "plan_amount": 1,
     "redeemed_at": "2025-08-27T01:19:27.057Z"
+  },
+  {
+    "key": "4CMenu-JYti-3txs-sQ",
+    "auth_key": "16403963638909779602",
+    "expires": "2125-08-27T11:10:10.294Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "lifetime",
+    "plan_amount": null,
+    "redeemed_at": null
   }
 ]
