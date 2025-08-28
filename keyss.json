@@ -141,5 +141,16 @@
     "plan_type": "week",
     "plan_amount": 5,
     "redeemed_at": "2025-08-27T19:46:59.731Z"
+  },
+  {
+    "key": "4CMenu-IHVt-RCoC-Se",
+    "auth_key": "4911671923569070297",
+    "expires": "2025-09-28T16:35:24.758Z",
+    "redeemed": false,
+    "user_id": null,
+    "blacklisted": false,
+    "plan_type": "month",
+    "plan_amount": 1,
+    "redeemed_at": null
   }
 ]
